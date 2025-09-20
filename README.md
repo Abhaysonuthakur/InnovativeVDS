@@ -1,4 +1,4 @@
-# 🚗 Innovative Vehicle Detection System using Computer Vision (IVDSCV)
+# 🚗 Innovative Vehicle Detection System using Computer Vision
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-green.svg)  
