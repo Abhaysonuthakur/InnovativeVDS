@@ -20,11 +20,11 @@ This project detects and counts vehicles from video streams or images and provid
 
 ## 🎥 Demo  
 
-### Vehicle Detection Example:  
-![Detection GIF](assets/demo.gif)  
-
 ### Sample Frame with Bounding Boxes:  
-<img src="assets/sample_output.png" width="600"/>  
+<img src="assets/output1.png" width="600"/>
+<img src="assets/output2.png" width="600"/>
+<img src="assets/output3.png" width="600"/>
+
 
 ---
 
@@ -64,7 +64,7 @@ Vehicle counts over time:
 
 Detection confidence graph:  
 
-<img src="assets/confidence_plot.png" width="500"/>  
+<img src="assets/output4.png" width="600"/>  
 
 ---
 
@@ -75,10 +75,10 @@ Detection confidence graph:
  ┣ 📜 README.md
  ┣ 📜 CDTARS.ipynb
  ┣ 📂 assets
- ┃ ┣ 📜 demo.gif
- ┃ ┣ 📜 sample_output.png
- ┃ ┣ 📜 vehicle_count.png
- ┃ ┗ 📜 confidence_plot.png
+ ┃ ┣ 📜 output1.gif
+ ┃ ┣ 📜 output2.png
+ ┃ ┣ 📜 output3.png
+ ┃ ┗ 📜 output4.png
  ┗ 📜 requirements.txt
 ```
 
