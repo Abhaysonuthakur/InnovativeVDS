@@ -23,7 +23,7 @@ This project detects and counts vehicles from video streams or images and provid
 ### Sample Frame with Bounding Boxes:  
 <img src="assets/output1.png" width="600"/>
 
-<img src="assets/output3.png" width="600"/>
+
 
 
 ---
@@ -65,6 +65,7 @@ Vehicle counts over time:
 Detection confidence graph:  
 
 <img src="assets/output2.png" width="600"/>
+<img src="assets/output3.png" width="600"/>
 
 ---
 
