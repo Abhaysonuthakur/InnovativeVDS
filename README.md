@@ -22,7 +22,7 @@ This project detects and counts vehicles from video streams or images and provid
 
 ### Sample Frame with Bounding Boxes:  
 <img src="assets/output1.png" width="600"/>
-<img src="assets/output2.png" width="600"/>
+
 <img src="assets/output3.png" width="600"/>
 
 
@@ -60,11 +60,11 @@ python detect.py --input sample_video.mp4
 
 Vehicle counts over time:  
 
-<img src="assets/vehicle_count.png" width="500"/>  
+<img src="assets/output4.jpeg" width="600"/> 
 
 Detection confidence graph:  
 
-<img src="assets/output4.png" width="600"/>  
+<img src="assets/output2.png" width="600"/>
 
 ---
 
